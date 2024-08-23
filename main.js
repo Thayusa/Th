@@ -1,1 +1,3 @@
-console.log('Hello World!');
+onload = () => {
+  document.body.classList.remove("container");
+};
